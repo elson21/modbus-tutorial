@@ -7,4 +7,4 @@
 | **Cluster** | Cluster $x$ Max Voltage | $500 + (x \times 10)$ | Input Reg | mV |
 | **Cluster** | Cluster $x$ Min Voltage | $501 + (x \times 10)$ | Input Reg | mV |
 | **Cluster** | Cluster $x$ Max Temp | $502 + (x \times 10)$ | Input Reg | $0.1$ °C |
-| **Cluster** | Cluster $x$ Min Temp | $503 + (x \times 10)$ | Input Reg |
+| **Cluster** | Cluster $x$ Min Temp | $503 + (x \times 10)$ | Input Reg | $0.1$ °C |
